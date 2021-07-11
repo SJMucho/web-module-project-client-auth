@@ -4,7 +4,7 @@ const PrivateRoute = () => {
 
   return (
     <div>
-      Private Route
+      <h2>Private Route</h2>
     </div>
   )
 };
